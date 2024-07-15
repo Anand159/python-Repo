@@ -1,10 +1,12 @@
-#Practice 8:
-#Sets
-#1. Create a set of the first five prime numbers.
-#2. Add the number 11 to the set.
-#3. Remove the number 2 from the set.
-#4. Check if the number 7 is in the set.
-#5. Print the final set.
+print("\n")
+print("Practice 8:")
+print("Sets")
+print("1. Create a set of the first five prime numbers.")
+print("2. Add the number 11 to the set.")
+print("3. Remove the number 2 from the set.")
+print("4. Check if the number 7 is in the set.")
+print("5. Print the final set.")
+print("\n")
 print("Prime number :- ")
 num={1,2,3,5,7}
 print(num)

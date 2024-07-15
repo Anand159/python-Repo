@@ -1,0 +1,13 @@
+print("\n")
+print("Practice 5:")
+print("Tuple Unpacking")
+print("1. Create a tuple with three elements: a string, an integer, and a float.")
+print("2. Unpack the tuple into three variables.")
+print("3. Print each variable")
+print("\n")
+print("Tuple with three elements: a string, an integer, and a float.")
+number=("Anand",20,14.55)
+print(number)
+a,b,c=number
+print("Unpack the tuple into three variables")
+print(a,b,c)

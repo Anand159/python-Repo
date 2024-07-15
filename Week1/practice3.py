@@ -1,0 +1,12 @@
+print("Practice 3:")
+print("Task:")
+print("1. Create a list of the first 10 odd numbers using list comprehension.")
+print("2. Create another list that contains the squares of these odd numbers.")
+print("3. Print both lists.")
+print("\n")
+print("odd number list")
+odd=list(range(1,21,2))
+print(odd)
+print("odd number square list")
+square_odd= [x**2 for x in odd]
+print(square_odd)

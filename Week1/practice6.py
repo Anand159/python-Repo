@@ -5,6 +5,12 @@
 #3. Access the first element of the second nested tuple.
 #4. Print both elements
 
-print("nested")
+Tuples=((1,2,3),(2,4,6))
+print("nested tuples :- ",Tuples)
+access=Tuples[0][1]
+print(access)
+acess2=Tuples[1][0]
+print(acess2)
+
 
 
